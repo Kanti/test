@@ -1,0 +1,42 @@
+[
+    {
+        "name": "kanti/hub-updater",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/Kanti/hub-updater.git",
+            "reference": "5868b02e74a310a557c02b8eb9b95daa5ca5e2eb"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/Kanti/hub-updater/zipball/5868b02e74a310a557c02b8eb9b95daa5ca5e2eb",
+            "reference": "5868b02e74a310a557c02b8eb9b95daa5ca5e2eb",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.4.0"
+        },
+        "time": "2014-10-30 07:20:37",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Kanti\\": ""
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "GPL-2.0"
+        ],
+        "authors": [
+            {
+                "name": "Kanti",
+                "email": "git@kanti.de",
+                "homepage": "https://kanti.de",
+                "role": "Developer"
+            }
+        ],
+        "description": "Simple Github Updater for Web Projects [PHP]"
+    }
+]

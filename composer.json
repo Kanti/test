@@ -1,0 +1,5 @@
+{
+    "require": {
+        "kanti/hub-updater": "dev-master"
+    }
+}
