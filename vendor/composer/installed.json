@@ -6,18 +6,18 @@
         "source": {
             "type": "git",
             "url": "https://github.com/Kanti/hub-updater.git",
-            "reference": "5868b02e74a310a557c02b8eb9b95daa5ca5e2eb"
+            "reference": "7fe0523cae0bd9c26f04a3b564e49ef309bbb7bc"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/Kanti/hub-updater/zipball/5868b02e74a310a557c02b8eb9b95daa5ca5e2eb",
-            "reference": "5868b02e74a310a557c02b8eb9b95daa5ca5e2eb",
+            "url": "https://api.github.com/repos/Kanti/hub-updater/zipball/7fe0523cae0bd9c26f04a3b564e49ef309bbb7bc",
+            "reference": "7fe0523cae0bd9c26f04a3b564e49ef309bbb7bc",
             "shasum": ""
         },
         "require": {
             "php": ">=5.4.0"
         },
-        "time": "2014-10-30 07:20:37",
+        "time": "2014-10-31 17:54:27",
         "type": "library",
         "installation-source": "dist",
         "autoload": {
